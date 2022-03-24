@@ -1,2 +1,2 @@
 # CurrencyConverer
-Simple CC. I wrote it with video-guide by ITH (YouTuber).
+![app_icon](UI/Icon/exchange.png)
